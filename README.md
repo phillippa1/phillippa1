@@ -17,6 +17,9 @@ Using JavaScript and React: [View Project](https://github.com/phillippa1/algorit
 ### A Simple Machine Learning Model
 Coded in Python on Jupyter Notebook: [View Project](https://github.com/phillippa1/simple-ml-model)
 
+### A Generative Art project, made with the help of AI through a 'tutorial'
+Just one file, to use for a web browser: [View Project](https://github.com/phillippa1/GenerativeArtGallery)
+
 ### A Simple Social Media Website
 Coded from scratch on Notepad: [View Project](https://github.com/phillippa1/PIppaBook)
 
