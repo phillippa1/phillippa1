@@ -1,6 +1,6 @@
 # Hi, I'm Pippa! 👋
 
-I'm a fourth-year computer science student at the University of Glasgow.  
+I'm the class represetative of my fourth-year computer science class at the University of Glasgow.  
 Connect with me: [GitHub](https://github.com/phillippa1) | [LinkedIn](https://www.linkedin.com/in/phillippa-hamilton)
 
 
