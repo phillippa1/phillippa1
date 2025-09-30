@@ -29,7 +29,7 @@ My first time using GitHub, an introduction through the university about version
 ---
 
 ## 🌟 Skills
-- Programming Languages: Python, Java, JavaScript, HTML, CSS, C, C#, C++
+- Programming Languages: Python, Java, JavaScript, HTML, CSS, C, C#, C++, Haskell
 - Frameworks: React, Django
 - Tools: Git, LaTeX, Jupyter Notebook
 
