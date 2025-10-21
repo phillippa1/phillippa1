@@ -11,6 +11,9 @@ Connect with me: [GitHub](https://github.com/phillippa1) | [LinkedIn](https://ww
 ### My Resume
 Coded in LaTeX on Overleaf: [View Project](https://github.com/phillippa1/resume)
 
+### My Dissertation
+An android prototype using gaze interaction for guitarists in an ensemble: [View Project](https://github.com/phillippa1/GazeEnsemble)
+
 ### Visual Algorithm Sorter
 Using JavaScript and React: [View Project](https://github.com/phillippa1/algorithmSort)
 
