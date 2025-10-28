@@ -1,7 +1,7 @@
 # Hi, I'm Pippa! 👋
 
-I'm the class represetative of my fourth-year computer science class at the University of Glasgow.
-Committees: Glasgow University Tech Society, Glasgow University Open Water Swimming Society.
+I'm the class represetative of my fourth-year computer science class at the University of Glasgow.\
+Committees: Glasgow University Tech Society, Glasgow University Open Water Swimming Society.\
 Connect with me: [GitHub](https://github.com/phillippa1) | [LinkedIn](https://www.linkedin.com/in/phillippa-hamilton)
 
 
