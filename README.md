@@ -13,7 +13,7 @@ Connect with me: [GitHub](https://github.com/phillippa1) | [LinkedIn](https://ww
 Coded in LaTeX on Overleaf: [View Project](https://github.com/phillippa1/resume)
 
 ### My Dissertation
-An android prototype using gaze interaction for guitarists in an ensemble: [View Project](https://github.com/phillippa1/GazeMusicians/tree/main)
+An android prototype to investigate different gaze interaction methods on a mobile phone using eyedid software: [View Project](https://github.com/phillippa1/GazeMusicians/tree/main)
 
 ### Visual Algorithm Sorter
 Using JavaScript and React: [View Project](https://github.com/phillippa1/algorithmSort)
