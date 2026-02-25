@@ -15,6 +15,9 @@ Coded in LaTeX on Overleaf: [View Project](https://github.com/phillippa1/resume)
 ### My Dissertation
 An android prototype to investigate different gaze interaction methods on a mobile phone using eyedid software: [View Project](https://github.com/phillippa1/GazeMusicians/tree/main)
 
+### Simple LLM
+For my course 'Conversational Interfaces' I made a simple football agent: [View Project](https://github.com/phillippa1/Football_LLM)
+
 ### Visual Algorithm Sorter
 Using JavaScript and React: [View Project](https://github.com/phillippa1/algorithmSort)
 
